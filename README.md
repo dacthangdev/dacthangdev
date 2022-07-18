@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dacthangdev
 - 👀 I’m interested in Database Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Inter Python
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me dacthang163@gmail.com
 
 <!---
